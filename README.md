@@ -230,28 +230,10 @@ For questions or support, please contact the project maintainer.
 
 ## Wireframes
 
-Below are the app wireframes/screens captured from the Figma mockups. To display the images here, place the exported PNG files in `assets/screenshots/` with the filenames shown below.
+| Home | Expenses | Maintenance |
+|------|----------|-------------|
+| ![Home](assets/screenshots/home.png) | ![Expenses](assets/screenshots/expenses.png) | ![Maintenance](assets/screenshots/maintenance.png) |
 
-- Home: `assets/screenshots/home.png`
-- Expenses: `assets/screenshots/expenses.png`
-- Maintenance: `assets/screenshots/maintenance.png`
-- Alerts: `assets/screenshots/alerts.png`
-- Profile: `assets/screenshots/profile.png`
-
-If you add those files to the repository, they will render in this README automatically. Example markup (already included below) will show the images in order.
-
-### Visual Preview
-
-![Home](assets/screenshots/home.png)
-
-![Expenses](assets/screenshots/expenses.png)
-
-![Maintenance](assets/screenshots/maintenance.png)
-
-![Alerts](assets/screenshots/alerts.png)
-
-![Profile](assets/screenshots/profile.png)
-
-Notes:
-- Recommended export size: 390px wide (mobile artboard width) for best balance between quality and file size.
-- Keep filenames exactly as listed above so the links work out-of-the-box.
+| Alerts | Profile |
+|--------|---------|
+| ![Alerts](assets/screenshots/alerts.png) | ![Profile](assets/screenshots/profile.png) |
