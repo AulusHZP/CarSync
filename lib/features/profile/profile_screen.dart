@@ -742,7 +742,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
               // Version
               const Center(
                 child: Text(
-                  'CarSync v1.0.0',
+                  'CarSync v1.1.0',
                   style: TextStyle(
                       fontSize: 10,
                       color: AppColors.quarter,

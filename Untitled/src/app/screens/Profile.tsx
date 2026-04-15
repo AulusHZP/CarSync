@@ -313,7 +313,7 @@ export function Profile() {
         {/* ── Version ────────────────────────────────────────────────────── */}
         <div style={{ textAlign: "center" }}>
           <span style={{ fontSize: 10, color: T.quarter, letterSpacing: 0.3 }}>
-            CarSync v1.0.0
+            CarSync v1.1.0
           </span>
         </div>
 
